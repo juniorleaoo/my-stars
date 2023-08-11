@@ -1,94 +1,27 @@
 ## Summary
 
-- [Elixir](#elixir)
-- [Java](#java)
-- [TypeScript](#typescript)
-- [JavaScript](#javascript)
-- [Dockerfile](#dockerfile)
-- [Lua](#lua)
-- [Clojure](#clojure)
-- [Python](#python)
-- [C](#c)
-- [Zig](#zig)
-- [HTML](#html)
-- [Common Lisp](#common-lisp)
-- [Go](#go)
 - [Makefile](#makefile)
-- [Rust](#rust)
-- [Shell](#shell)
 - [Others](#others)
+- [Zig](#zig)
+- [Python](#python)
+- [Java](#java)
 - [Markdown](#markdown)
+- [Shell](#shell)
+- [Elixir](#elixir)
+- [Common Lisp](#common-lisp)
+- [JavaScript](#javascript)
+- [C](#c)
+- [Clojure](#clojure)
+- [Dockerfile](#dockerfile)
 - [Jupyter Notebook](#jupyter-notebook)
-## Python
-
-- [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
-- [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
-- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research. 
-- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
-- [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
-
-## C
-
-- [linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [node-talib](https://github.com/oransel/node-talib) - A technical analysis library for node.js
-
-## Zig
-
-- [bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-## HTML
-
-- [awesome-cafezin](https://github.com/LetticiaNicoli/awesome-cafezin) - Lista pra vc que está buscando um cafezin incrível ☕️ ✨  🇧🇷 
-- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-- [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
-
-## Lua
-
-- [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway 
-
-## Clojure
-
-- [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
-
-## Go
-
-- [gosseract](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library
-- [lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-- [go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
-- [gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-- [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
-- [mapper](https://github.com/devfeel/mapper) - A simple and easy go tools for auto mapper map to struct, struct to map, struct to struct, slice to slice, map to slice, map to json.
-- [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-- [go-monolith-example](https://github.com/powerman/go-monolith-example) - Example Go monolith with embedded microservices and The Clean Architecture
-- [learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
-- [go-wsl2-host](https://github.com/shayne/go-wsl2-host) - Automatically update your Windows hosts file with the WSL2 VM IP address
-- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
-
+- [Go](#go)
+- [Rust](#rust)
+- [TypeScript](#typescript)
+- [HTML](#html)
+- [Lua](#lua)
 ## Makefile
 
 - [project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
-
-## Rust
-
-- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-- [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
-- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
-- [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
-## Shell
-
-- [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
-- [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
-- [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-
-## Common Lisp
-
-- [pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 
 ## Others
 
@@ -118,13 +51,22 @@
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [frontend-challenges](https://github.com/felipefialho/frontend-challenges) - A public list of open-source challenges from companies around the world
 
-## Markdown
+## Zig
 
-- [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
+- [bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
-## Jupyter Notebook
+## Common Lisp
 
-- [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
+- [pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
+
+## Python
+
+- [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, OPT, and GALACTICA.
+- [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
+- [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [vectorbt](https://github.com/polakowo/vectorbt) - Find your trading edge, using the fastest engine for backtesting, algorithmic trading, and research. 
+- [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning) - Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [mlcourse.ai](https://github.com/Yorko/mlcourse.ai) - Open Machine Learning Course
 
 ## Java
 
@@ -136,20 +78,19 @@
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 - [arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 
-## TypeScript
+## Markdown
 
-- [node-html-to-image](https://github.com/frinyvonnick/node-html-to-image) - A Node.js module that generates images from HTML
-- [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
-- [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-- [module-federation-examples](https://github.com/module-federation/module-federation-examples) - Implementation examples of module federation , by the creators of module federation
-- [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
-- [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
-- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- [instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
+- [awesome-youtubers](https://github.com/JoseDeFreitas/awesome-youtubers) - An awesome list of awesome YouTubers that teach about technology. Tutorials about web development, computer science, machine learning, game development, cybersecurity, and more.
+
+## Shell
+
+- [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
+- [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+
+## Elixir
+
+- [elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 
 ## JavaScript
 
@@ -170,12 +111,71 @@
 - [javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short code snippets for all your development needs
 
+## C
+
+- [linux](https://github.com/torvalds/linux) - Linux kernel source tree
+- [node-talib](https://github.com/oransel/node-talib) - A technical analysis library for node.js
+
+## Clojure
+
+- [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
+
 ## Dockerfile
 
 - [nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
 - [nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2023)
 
-## Elixir
+## Jupyter Notebook
 
-- [elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
+- [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
+
+## Go
+
+- [gosseract](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library
+- [lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+- [go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
+- [gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+- [testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+- [learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
+- [mapper](https://github.com/devfeel/mapper) - A simple and easy go tools for auto mapper map to struct, struct to map, struct to struct, slice to slice, map to slice, map to json.
+- [fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+- [go-monolith-example](https://github.com/powerman/go-monolith-example) - Example Go monolith with embedded microservices and The Clean Architecture
+- [learngo](https://github.com/inancgumus/learngo) - ❤️ 1000+ Hand-Crafted Go Examples, Exercises, and Quizzes. 🚀 Learn Go by fixing 1000+ tiny programs.
+- [go-wsl2-host](https://github.com/shayne/go-wsl2-host) - Automatically update your Windows hosts file with the WSL2 VM IP address
+- [ultimate-go](https://github.com/hoanhan101/ultimate-go) - The Ultimate Go Study Guide
+
+## Rust
+
+- [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+- [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
+- [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+
+## TypeScript
+
+- [node-html-to-image](https://github.com/frinyvonnick/node-html-to-image) - A Node.js module that generates images from HTML
+- [amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
+- [type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
+- [domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
+- [module-federation-examples](https://github.com/module-federation/module-federation-examples) - Implementation examples of module federation , by the creators of module federation
+- [excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+- [eui](https://github.com/elastic/eui) - Elastic UI Framework 🙌
+- [echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [instagram-private-api](https://github.com/dilame/instagram-private-api) - NodeJS Instagram private API SDK. Written in TypeScript.
+
+## HTML
+
+- [awesome-cafezin](https://github.com/LetticiaNicoli/awesome-cafezin) - Lista pra vc que está buscando um cafezin incrível ☕️ ✨  🇧🇷 
+- [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [awesome-mental-health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
+
+## Lua
+
+- [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway 
 
