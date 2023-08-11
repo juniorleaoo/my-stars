@@ -1,19 +1,22 @@
 package main
 
 import (
+	"flag"
 	"fmt"
-	"github.com/joho/godotenv"
 	"log"
 	"os"
 	"strings"
 )
 
 func main() {
-	err := godotenv.Load(".env")
-	if err != nil {
-		log.Fatal("Error loading .env file")
+	githubUsername := flag.String("github_username", "asd", "Github Username")
+	githubToken := flag.String("github_token", "asd", "Github Token")
+	flag.Parse()
+
+	githubClient := GithubClient{
+		Authorization: *githubToken,
 	}
-	var stars = ListAllStars(os.Getenv("GITHUB_USERNAME"))
+	var stars = githubClient.ListAllStars(*githubUsername)
 	content := generateContent(stars)
 	createFile(content)
 }

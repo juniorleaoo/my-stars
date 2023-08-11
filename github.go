@@ -8,6 +8,10 @@ import (
 	"time"
 )
 
+type GithubClient struct {
+	Authorization string
+}
+
 type GithubOwner struct {
 	Id                int    `json:"id"`
 	NodeId            string `json:"node_id"`
@@ -117,11 +121,11 @@ type GithubStarred struct {
 	DefaultBranch            string        `json:"default_branch"`
 }
 
-func ListAllStars(username string) []GithubStarred {
+func (g *GithubClient) ListAllStars(username string) []GithubStarred {
 	var result []GithubStarred
 
 	for i := 1; ; i++ {
-		var data = ListStars(username, 100, i)
+		var data = g.ListStars(username, 100, i)
 		result = append(result, data...)
 		if len(data) < 100 {
 			break
@@ -131,7 +135,7 @@ func ListAllStars(username string) []GithubStarred {
 	return result
 }
 
-func ListStars(username string, perPage int, page int) []GithubStarred {
+func (g *GithubClient) ListStars(username string, perPage int, page int) []GithubStarred {
 	requestURL := fmt.Sprintf("https://api.github.com/users/%s/starred?per_page=%d&page=%d", username, perPage, page)
 	req, err := http.NewRequest(http.MethodGet, requestURL, nil)
 
@@ -140,7 +144,7 @@ func ListStars(username string, perPage int, page int) []GithubStarred {
 	}
 	req.Header.Set("Accept", "application/vnd.github+json")
 	req.Header.Set("Content-Type", "application/json")
-	req.Header.Set("Authorization", os.Getenv("GITHUB_TOKEN"))
+	req.Header.Set("Authorization", g.Authorization)
 
 	client := http.Client{}
 
