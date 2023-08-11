@@ -30,4 +30,4 @@ jobs:
       env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      run: .\my-stars --github_username="${USERNAME}" --github_token="${GITHUB_TOKEN}"
+      run: ./my-stars --github_username="${USERNAME}" --github_token="${GITHUB_TOKEN}"
