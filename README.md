@@ -10,6 +10,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Lean](#lean)
 - [Lua](#lua)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -98,6 +99,10 @@
 ## Jupyter Notebook
 
 - [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
+
+## Lean
+
+- [rinha](https://github.com/meoowers/rinha) - 🧪 | Rinha de Backend Lean4
 
 ## Lua
 
