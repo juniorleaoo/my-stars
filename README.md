@@ -44,6 +44,7 @@
 
 ## Go
 
+- [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [layerform](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments.
