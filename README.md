@@ -105,7 +105,7 @@
 
 ## Lean
 
-- [rinha](https://github.com/meoowers/rinha) - 🧪 | Rinha de Backend Lean4
+- [rinha](https://github.com/aripiprazole/rinha) - 🧪 | Rinha de Backend Lean4
 
 ## Lua
 
