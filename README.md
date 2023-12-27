@@ -47,7 +47,7 @@
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
-- [layerform](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments.
+- [layerform](https://github.com/briefercloud/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple "staging" environments.
 - [gosseract](https://github.com/otiai10/gosseract) - Go package for OCR (Optical Character Recognition), by using Tesseract C++ library
 - [lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [go-funk](https://github.com/thoas/go-funk) - A modern Go utility library which provides helpers (map, find, contains, filter, ...)
