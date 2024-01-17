@@ -10,6 +10,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Lean](#lean)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -103,6 +104,10 @@
 ## Jupyter Notebook
 
 - [python-machine-learning-book](https://github.com/rasbt/python-machine-learning-book) - The "Python Machine Learning (1st edition)"  book code repository and info resource
+
+## Kotlin
+
+- [Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 
 ## Lean
 
