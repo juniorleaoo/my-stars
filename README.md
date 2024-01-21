@@ -45,6 +45,7 @@
 
 ## Go
 
+- [ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
 - [air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
@@ -83,6 +84,7 @@
 
 ## JavaScript
 
+- [bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [fancytree](https://github.com/mar10/fancytree) - JavaScript tree view / tree grid plugin with support for keyboard, inline editing, filtering, checkboxes, drag'n'drop, and lazy loading
 - [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
@@ -145,7 +147,6 @@
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [why-svelte](https://github.com/feltcoop/why-svelte) - Why Svelte is our choice for a large web project in 2020
 - [awesome-bpm](https://github.com/ungerts/awesome-bpm) - A curated list of awesome Business Process Management (BPM) tools, engines, frameworks, resources and other awesomeness.
 - [SoftwareArchitect](https://github.com/justinamiller/SoftwareArchitect) - Path to a Software Architect
 - [angular-styleguide](https://github.com/johnpapa/angular-styleguide) - Angular Style Guide: A starting point for Angular development teams to provide consistency through good practices.
