@@ -18,6 +18,7 @@
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
+- [Scala](#scala)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Zig](#zig)
@@ -180,6 +181,10 @@
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+
+## Scala
+
+- [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 
 ## Shell
 
