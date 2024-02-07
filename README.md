@@ -18,7 +18,6 @@
 - [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
-- [Scala](#scala)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Zig](#zig)
@@ -68,6 +67,7 @@
 
 ## HTML
 
+- [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 - [rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [awesome-cafezin](https://github.com/LetticiaNicoli/awesome-cafezin) - Lista pra vc que está buscando um cafezin incrível ☕️ ✨  🇧🇷 
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -181,10 +181,6 @@
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
-## Scala
-
-- [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 
 ## Shell
 
