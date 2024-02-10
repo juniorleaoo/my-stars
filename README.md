@@ -16,9 +16,9 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
+- [PLpgSQL](#plpgsql)
 - [Python](#python)
 - [Rust](#rust)
-- [Scala](#scala)
 - [Shell](#shell)
 - [TypeScript](#typescript)
 - [Zig](#zig)
@@ -162,6 +162,10 @@
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [frontend-challenges](https://github.com/felipefialho/frontend-challenges) - A public list of open-source challenges from companies around the world
 
+## PLpgSQL
+
+- [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
+
 ## Python
 
 - [rinha-de-algoritmos](https://github.com/Universidade-Livre/rinha-de-algoritmos) - Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas!
@@ -181,10 +185,6 @@
 - [rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-
-## Scala
-
-- [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 
 ## Shell
 
