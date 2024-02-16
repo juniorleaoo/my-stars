@@ -123,7 +123,7 @@
 
 ## Lua
 
-- [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway 
+- [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 
 ## Makefile
 
