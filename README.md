@@ -16,7 +16,6 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
-- [PLpgSQL](#plpgsql)
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -68,6 +67,7 @@
 
 ## HTML
 
+- [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 - [rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [awesome-cafezin](https://github.com/LetticiaNicoli/awesome-cafezin) - Lista pra vc que está buscando um cafezin incrível ☕️ ✨  🇧🇷 
 - [free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -111,6 +111,7 @@
 
 ## Kotlin
 
+- [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 - [crud-users-api](https://github.com/DanielDevv/crud-users-api) - 
 - [kotlin-users-api](https://github.com/felpgoes/kotlin-users-api) - 
 - [users-crud-api](https://github.com/AlexMirapalheta/users-crud-api) - 
@@ -162,10 +163,6 @@
 - [babel-handbook](https://github.com/jamiebuilds/babel-handbook) - :blue_book: A guided handbook on how to use Babel and how to create plugins for Babel.
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [frontend-challenges](https://github.com/felipefialho/frontend-challenges) - A public list of open-source challenges from companies around the world
-
-## PLpgSQL
-
-- [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 
 ## Python
 
