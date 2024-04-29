@@ -1,6 +1,7 @@
 ## Summary
 
 - [C](#c)
+- [C#](#c#)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Dockerfile](#dockerfile)
@@ -25,6 +26,10 @@
 
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [node-talib](https://github.com/oransel/node-talib) - A technical analysis library for node.js
+
+## C#
+
+- [BepInEx](https://github.com/BepInEx/BepInEx) - Unity / XNA game patcher and plugin framework
 
 ## Clojure
 
