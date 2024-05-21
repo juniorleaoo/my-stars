@@ -198,7 +198,7 @@
 
 ## TypeScript
 
-- [frontend](https://github.com/SOS-RS/frontend) - 
+- [frontend](https://github.com/SOS-RS/frontend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
 - [backend](https://github.com/SOS-RS/backend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
 - [backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [node-html-to-image](https://github.com/frinyvonnick/node-html-to-image) - A Node.js module that generates images from HTML
