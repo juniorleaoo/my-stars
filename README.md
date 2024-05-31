@@ -80,6 +80,8 @@
 
 ## Java
 
+- [spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
+- [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [JavaHamcrest](https://github.com/hamcrest/JavaHamcrest) - Java (and original) version of Hamcrest
 - [langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
 - [conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
