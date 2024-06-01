@@ -50,6 +50,7 @@
 
 ## Go
 
+- [tracetest](https://github.com/kubeshop/tracetest) - 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
 - [ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go.
