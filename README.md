@@ -2,6 +2,7 @@
 
 - [C](#c)
 - [C#](#c#)
+- [C++](#c++)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Dockerfile](#dockerfile)
@@ -31,6 +32,10 @@
 ## C#
 
 - [BepInEx](https://github.com/BepInEx/BepInEx) - Unity / XNA game patcher and plugin framework
+
+## C++
+
+- [llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ## Clojure
 
@@ -151,7 +156,6 @@
 
 ## Others
 
-- [llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 - [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
 - [awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
 - [awesome-system-design](https://github.com/madd86/awesome-system-design) - A curated list of awesome System Design (A.K.A. Distributed Systems) resources. 
