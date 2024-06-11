@@ -2,7 +2,6 @@
 
 - [C](#c)
 - [C#](#c#)
-- [C++](#c++)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Dockerfile](#dockerfile)
@@ -14,6 +13,7 @@
 - [Jsonnet](#jsonnet)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [LLVM](#llvm)
 - [Lean](#lean)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -32,10 +32,6 @@
 ## C#
 
 - [BepInEx](https://github.com/BepInEx/BepInEx) - Unity / XNA game patcher and plugin framework
-
-## C++
-
-- [llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ## Clojure
 
@@ -137,6 +133,10 @@
 - [crud-test-customer-api](https://github.com/rafaduka/crud-test-customer-api) - grupo de estudo time foz do iguacu
 - [apiusers](https://github.com/maraxus/apiusers) - 
 - [Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
+
+## LLVM
+
+- [llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 
 ## Lean
 
