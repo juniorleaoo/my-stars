@@ -83,6 +83,7 @@
 
 ## Java
 
+- [1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 - [spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [JavaHamcrest](https://github.com/hamcrest/JavaHamcrest) - Java (and original) version of Hamcrest
