@@ -83,6 +83,7 @@
 
 ## Java
 
+- [spring-boot-startup-report](https://github.com/maciejwalkowiak/spring-boot-startup-report) - Spring Boot Startup Report library generates an interactive Spring Boot application startup report that lets you understand what contributes to the application startup time and perhaps helps to optimize it.
 - [1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 - [spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
@@ -196,6 +197,7 @@
 
 ## Rust
 
+- [mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
 - [rinha-backend-rust](https://github.com/reu/rinha-backend-rust) - Rinha backend 2023
 - [starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
