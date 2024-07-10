@@ -52,6 +52,7 @@
 
 ## Go
 
+- [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [tracetest](https://github.com/kubeshop/tracetest) - 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
 - [ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
 - [act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
