@@ -131,7 +131,7 @@
 ## Kotlin
 
 - [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language. 
-- [awesome-kotlin](https://github.com/KotlinBy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
+- [awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 - [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
 - [crud-users-api](https://github.com/DanielDevv/crud-users-api) - 
 - [kotlin-users-api](https://github.com/felpgoes/kotlin-users-api) - 
