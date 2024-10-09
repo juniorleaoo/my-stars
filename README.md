@@ -2,6 +2,7 @@
 
 - [C](#c)
 - [C#](#c#)
+- [C++](#c++)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Dockerfile](#dockerfile)
@@ -33,6 +34,10 @@
 
 - [BepInEx](https://github.com/BepInEx/BepInEx) - Unity / XNA game patcher and plugin framework
 
+## C++
+
+- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
+
 ## Clojure
 
 - [metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company :yum:
@@ -52,7 +57,6 @@
 
 ## Go
 
-- [ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [tracetest](https://github.com/kubeshop/tracetest) - 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
 - [ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go
