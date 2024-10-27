@@ -89,7 +89,7 @@
 - [spring-boot-startup-report](https://github.com/maciejwalkowiak/spring-boot-startup-report) - Spring Boot Startup Report library generates an interactive Spring Boot application startup report that lets you understand what contributes to the application startup time and perhaps helps to optimize it.
 - [1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 - [spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
-- [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
+- [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [JavaHamcrest](https://github.com/hamcrest/JavaHamcrest) - Java (and original) version of Hamcrest
 - [langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
 - [conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
