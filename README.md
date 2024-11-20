@@ -85,6 +85,7 @@
 
 ## Java
 
+- [BlockHound](https://github.com/reactor/BlockHound) - Java agent to detect blocking calls from non-blocking threads.
 - [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [spring-boot-startup-report](https://github.com/maciejwalkowiak/spring-boot-startup-report) - Spring Boot Startup Report library generates an interactive Spring Boot application startup report that lets you understand what contributes to the application startup time and perhaps helps to optimize it.
 - [1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
