@@ -22,6 +22,7 @@
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Zig](#zig)
 ## C
@@ -223,6 +224,10 @@
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+
+## Svelte
+
+- [daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## TypeScript
 
