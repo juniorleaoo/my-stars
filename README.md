@@ -211,6 +211,7 @@
 
 ## Rust
 
+- [bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
 - [rinha-backend-rust](https://github.com/reu/rinha-backend-rust) - Rinha backend 2023
