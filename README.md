@@ -27,6 +27,7 @@
 - [Zig](#zig)
 ## C
 
+- [FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [node-talib](https://github.com/oransel/node-talib) - A technical analysis library for node.js
 
@@ -197,6 +198,7 @@
 
 ## Python
 
+- [whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
@@ -212,6 +214,7 @@
 
 ## Rust
 
+- [zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
 - [rinha-de-compiler](https://github.com/aripiprazole/rinha-de-compiler) - 🥖 | Rinha de compiladores (ou interpretadores kkkk
