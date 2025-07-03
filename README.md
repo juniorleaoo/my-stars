@@ -97,7 +97,7 @@
 - [JavaHamcrest](https://github.com/hamcrest/JavaHamcrest) - Java (and original) version of Hamcrest
 - [langchain4j](https://github.com/langchain4j/langchain4j) - Java version of LangChain
 - [conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
-- [JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用!前后端分离架构 SpringBoot，SpringCloud，Ant Design4、Vue3，Mybatis！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成->OnlineCoding-> 代码生成-> 手工MERGE，显著的提高开发效率，又不失灵活性~
+- [JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 🔥企业级低代码平台集成了AI应用平台，帮助企业快速实现低代码开发和构建AI应用！前后端分离架构 SpringBoot，SpringCloud、Mybatis，Ant Design4、 Vue3.0、TS+vite！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式: AI生成->OnlineCoding-> 代码生成-> 手工MERGE，显著的提高效率，又不失灵活~
 - [nestedset-java-spring](https://github.com/davidwiniarz/nestedset-java-spring) - Nested Set - Java/Spring/Hibernate Implementation
 - [jasperreports](https://github.com/Jaspersoft/jasperreports) - JasperReports® - Free Java Reporting Library
 - [spring-kafka](https://github.com/spring-projects/spring-kafka) - Provides Familiar Spring Abstractions for Apache Kafka
