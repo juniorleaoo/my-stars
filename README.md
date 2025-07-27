@@ -137,6 +137,7 @@
 
 ## Kotlin
 
+- [Kabu](https://github.com/bipokot/Kabu) - Kotlin DSLs generator (not an AI)
 - [kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language. 
 - [awesome-kotlin](https://github.com/Heapy/awesome-kotlin) - A curated list of awesome Kotlin related stuff Inspired by awesome-java. 
 - [detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
