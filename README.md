@@ -199,6 +199,7 @@
 
 ## Python
 
+- [adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development (ADK) 
 - [whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [llama](https://github.com/meta-llama/llama) - Inference code for Llama models
