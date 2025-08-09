@@ -16,6 +16,7 @@
 - [LLVM](#llvm)
 - [Lean](#lean)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
@@ -160,6 +161,10 @@
 ## Lua
 
 - [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
+
+## MDX
+
+- [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 
 ## Makefile
 
