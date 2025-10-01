@@ -15,6 +15,7 @@
 - [Kotlin](#kotlin)
 - [LLVM](#llvm)
 - [Lean](#lean)
+- [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
@@ -157,6 +158,10 @@
 
 - [rinha](https://github.com/aripiprazole/rinha) - 🧪 | Rinha de Backend Lean4
 
+## Lua
+
+- [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
+
 ## MDX
 
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
@@ -187,7 +192,6 @@
 - [lists](https://github.com/jnv/lists) - The definitive list of lists (of lists) curated on GitHub and elsewhere
 - [awesome-educational-games](https://github.com/yrgo/awesome-educational-games) - A curated list of awesome educational games to learn editors, languages, programming, etc
 - [awesome-techleads](https://github.com/gabiduarte/awesome-techleads) - Uma lista selecionada de conteúdos sobre liderança técnica, com preferência em conteúdos em português
-- [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [FAQGURU](https://github.com/FAQGURU/FAQGURU) - :school_satchel: :rocket: :tada: A list of interview questions. This repository is everything you need to prepare for your technical interview.
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
