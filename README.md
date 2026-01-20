@@ -160,7 +160,7 @@
 
 ## Lua
 
-- [kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
+- [kong](https://github.com/Kong/kong) - 🦍 The API and AI Gateway
 
 ## MDX
 
