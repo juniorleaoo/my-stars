@@ -248,12 +248,12 @@
 
 ## TypeScript
 
-- [clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+- [moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
 - [shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 - [evolution-api](https://github.com/EvolutionAPI/evolution-api) - Evolution API is an open-source WhatsApp integration API
 - [hollama](https://github.com/fmaclen/hollama) - A minimal LLM chat app that runs entirely in your browser
 - [chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
-- [lobe-chat](https://github.com/lobehub/lobe-chat) - :exploding_head: LobeHub - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+- [lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
 - [frontend](https://github.com/SOS-RS/frontend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
 - [backend](https://github.com/SOS-RS/backend) - Auxílio RS: Projetos de Resposta a Emergências por Chuvas e Alagamentos
 - [backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
