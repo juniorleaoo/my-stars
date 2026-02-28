@@ -82,7 +82,6 @@
 
 ## HTML
 
-- [javaevolved.github.io](https://github.com/javaevolved/javaevolved.github.io) - Java Evolved. Your Code Can Evolve Too!
 - [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 - [rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [awesome-cafezin](https://github.com/LetticiaNicoli/awesome-cafezin) - Lista pra vc que está buscando um cafezin incrível ☕️ ✨  🇧🇷 
@@ -92,6 +91,7 @@
 ## Java
 
 - [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources) - Learn System Design concepts and prepare for interviews using free resources.
+- [javaevolved.github.io](https://github.com/javaevolved/javaevolved.github.io) - Java Evolved. Your Code Can Evolve Too!
 - [jb-projects-projection-query](https://github.com/juliocmbueno/jb-projects-projection-query) - ProjectionQuery is a lightweight, type-safe, and framework-agnostic query projection library for Java.  
 - [BlockHound](https://github.com/reactor/BlockHound) - Java agent to detect blocking calls from non-blocking threads.
 - [RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
