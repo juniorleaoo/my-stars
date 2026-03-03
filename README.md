@@ -210,7 +210,7 @@
 - [adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development Kit (ADK) 
 - [whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
-- [langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [genai-stack](https://github.com/docker/genai-stack) - Langchain + Docker + Neo4j + Ollama
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
