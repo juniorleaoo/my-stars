@@ -102,7 +102,7 @@
 - [spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [JavaHamcrest](https://github.com/hamcrest/JavaHamcrest) - Java (and original) version of Hamcrest
-- [langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j is an open-source Java library that simplifies the integration of LLMs into Java applications through a unified API, providing access to popular LLMs and vector databases. It makes implementing RAG, tool calling (including support for MCP), and agents easy. LangChain4j integrates seamlessly with various enterprise Java frameworks.
+- [langchain4j](https://github.com/langchain4j/langchain4j) - LangChain4j is an idiomatic, open-source Java library for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and vector stores, and makes implementing tool calling (including MCP support), agents and RAG easy. It integrates seamlessly with enterprise Java frameworks like Quarkus and Spring Boot.
 - [conductor](https://github.com/Netflix/conductor) - Conductor is a microservices orchestration engine.
 - [JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款 AI 驱动的低代码平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
 - [nestedset-java-spring](https://github.com/davidwiniarz/nestedset-java-spring) - Nested Set - Java/Spring/Hibernate Implementation
