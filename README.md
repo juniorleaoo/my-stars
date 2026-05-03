@@ -225,7 +225,7 @@
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [terraform-local](https://github.com/localstack/terraform-local) - Terraform CLI wrapper to deploy your Terraform applications directly to LocalStack
 - [rinha-de-algoritmos](https://github.com/Universidade-Livre/rinha-de-algoritmos) - Na Rinha de Algoritmos você deve utilizar suas habilidades para a criação de algoritmos eficientes para resolver problemas!
-- [textgen](https://github.com/oobabooga/textgen) - The original local LLM interface. Text, vision, tool-calling, training. UI + API, 100% offline and private.
+- [textgen](https://github.com/oobabooga/textgen) - Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API.
 - [awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet) - :beers: awesome cheatsheet
 - [system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [vectorbt](https://github.com/polakowo/vectorbt) - The backtesting engine that gives you an unfair advantage. Run thousands of trading ideas before others finish one.
