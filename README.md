@@ -215,6 +215,7 @@
 
 ## Python
 
+- [spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 - [posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
 - [adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development Kit (ADK) 
@@ -251,6 +252,7 @@
 
 ## Shell
 
+- [superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
