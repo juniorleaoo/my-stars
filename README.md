@@ -263,6 +263,7 @@
 
 ## TypeScript
 
+- [OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
