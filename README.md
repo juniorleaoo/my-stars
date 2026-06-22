@@ -263,6 +263,7 @@
 
 ## TypeScript
 
+- [wacrm](https://github.com/ArnasDon/wacrm) - 
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
