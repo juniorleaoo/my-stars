@@ -265,7 +265,7 @@
 
 ## TypeScript
 
-- [wacrm](https://github.com/ArnasDon/wacrm) - 
+- [wacrm](https://github.com/ArnasDon/wacrm) - Self-hostable CRM template for WhatsApp — shared inbox, contacts, sales pipelines, broadcasts, and no-code automations. Fork it, brand it, host it.
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
