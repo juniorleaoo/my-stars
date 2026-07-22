@@ -2,6 +2,7 @@
 
 - [C](#c)
 - [C#](#c#)
+- [CSS](#css)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
 - [Dockerfile](#dockerfile)
@@ -36,6 +37,10 @@
 ## C#
 
 - [BepInEx](https://github.com/BepInEx/BepInEx) - Unity / XNA game patcher and plugin framework
+
+## CSS
+
+- [hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 ## Clojure
 
@@ -265,6 +270,7 @@
 
 ## TypeScript
 
+- [SocratiCode](https://github.com/giancarloerra/SocratiCode) - Enterprise-grade (40m+ LOC) codebase intelligence, zero-setup, local & private Plugin/Skill/Extension or MCP: hybrid semantic search, polyglot dependency graphs, symbol-level impact analysis & call-flow, interactive HTML viewer, cross-project & branch-aware search, DB/API/infra knowledge. 61% less tokens, 84% fewer calls, 37x faster. Cloud in beta.
 - [wacrm](https://github.com/ArnasDon/wacrm) - Self-hostable CRM template for WhatsApp — shared inbox, contacts, sales pipelines, broadcasts, and no-code automations. Fork it, brand it, host it.
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
