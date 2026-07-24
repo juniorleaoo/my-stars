@@ -259,6 +259,7 @@
 
 ## Shell
 
+- [skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
