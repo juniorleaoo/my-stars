@@ -89,6 +89,7 @@
 
 ## HTML
 
+- [archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1) - Repositório da 2ª edição da Rinha de Backend
 - [rinha-de-backend-2023-q3](https://github.com/zanfranceschi/rinha-de-backend-2023-q3) - Rinha de Backend - Edição 2023 Q3
 - [awesome-cafezin](https://github.com/LetticiaNicoli/awesome-cafezin) - Lista pra vc que está buscando um cafezin incrível ☕️ ✨  🇧🇷 
