@@ -226,7 +226,7 @@
 - [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 - [posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.
-- [adk-recipes](https://github.com/google/adk-recipes) - A collection of sample agents built with Agent Development Kit (ADK) 
+- [adk-recipes](https://github.com/google/adk-recipes) - A collection of agent recipes, reference patterns, and vertical plugins built with Agent Development Kit (ADK)
 - [whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
 - [langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
