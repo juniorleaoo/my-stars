@@ -25,7 +25,6 @@
 - [Python](#python)
 - [Rust](#rust)
 - [Shell](#shell)
-- [Svelte](#svelte)
 - [TypeScript](#typescript)
 - [Vim Snippet](#vim-snippet)
 ## C
@@ -41,6 +40,7 @@
 ## CSS
 
 - [hallmark](https://github.com/Nutlope/hallmark) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- [architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 
 ## Clojure
 
@@ -267,10 +267,6 @@
 - [papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
 - [og-aws](https://github.com/open-guides/og-aws) - 📙 Amazon Web Services — a practical guide
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-
-## Svelte
-
-- [architecture-decision-record](https://github.com/architecture-decision-record/architecture-decision-record) - Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 
 ## TypeScript
 
