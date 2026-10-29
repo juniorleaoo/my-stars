@@ -21,6 +21,7 @@
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
+- [PHP](#php)
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Rust](#rust)
@@ -119,6 +120,7 @@
 
 ## JavaScript
 
+- [ia-guidelines](https://github.com/ImJustLucas/ia-guidelines) - ✨ Gorgeous collection of code conventions & architecture templates with everything else you need to make AI agents follow your rules.
 - [archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
@@ -194,7 +196,7 @@
 ## Others
 
 - [disallowed-usernames](https://github.com/creativefoundrysg/disallowed-usernames) - An open source database of disallowed usernames for software projects to prevent phishing and impersonation.
-- [openapi](https://github.com/facebook/openapi) - This repository provides OpenAPI specifications for Meta APIs
+- [openapi](https://github.com/meta/openapi) - This repository provides OpenAPI specifications for Meta APIs
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
 - [awesome-engineering-team-management](https://github.com/kdeldycke/awesome-engineering-team-management) - 👔 How to transition from software development to engineering management
@@ -217,12 +219,17 @@
 - [awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [frontend-challenges](https://github.com/felipefialho/frontend-challenges) - A public list of open-source challenges from companies around the world
 
+## PHP
+
+- [PrestaShop](https://github.com/PrestaShop/PrestaShop) - PrestaShop is the universal open-source software platform to build your e-commerce solution.
+
 ## PowerShell
 
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat) - A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 ## Python
 
+- [openaugi](https://github.com/bitsofchris/openaugi) -  Human memory, for agents. Scalable, private, personal knowledge base for any LLM provider.
 - [claude-seo](https://github.com/AgriciDaniel/claude-seo) - Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.
 - [spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
